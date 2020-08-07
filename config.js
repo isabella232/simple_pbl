@@ -52,7 +52,7 @@ var globalConfig = {
     },
     'Shipping Logistics': {
       category: 'dashboards',
-      number: 3322,
+      number: 161,
     },
     'All Sales Pulse': {
       category: 'dashboards',
